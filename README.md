@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-**arkev/arkev** Growth Hacker, Full Stack Marketer, Consultor SEO, Desarrollador Frontend, Diseñador UX & UI y saxofonista en worship team de mi iglesia
+**Arkev** Growth Hacker, Full Stack Marketer, Consultor SEO, Desarrollador Frontend, Diseñador UX & UI y saxofonista en worship team de mi iglesia
 
 Algunos datos sobre mi:
 
