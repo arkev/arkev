@@ -1,11 +1,16 @@
-### Hola 👋
+### Hola
 
-
-**Arkev** Growth Hacker, Full Stack Marketer, Consultor SEO, Desarrollador Frontend, Diseñador UX & UI y saxofonista en worship team de mi iglesia
+👋 Hey, soy Allen Kevin Zapien Zamora, AKA “Arkev”
+🧠 UX/UI Wizard • 🎯 SEO Ninja • 🧩 Growth Hacker • 📢 Full-Stack Marketer
+💻 Diseñador + Desarrollador que mezcla código, creatividad y estrategia
+📚 Docente en la Universidad de Montemorelos • Freelancer por vocación
+🚀 Creo experiencias digitales que convierten clics en conexiones reales
+💡 Apasionado por la IA, los flujos inteligentes y los productos que cuentan historias
+📨 Contacto: yosoy@arkev.com | 🌐 arkev.com
 
 Algunos datos sobre mi:
 
-- 🔭 Actualmente trabajo como docente en la UM, también como freelancer
-- 🌱 Siempre estoy tratando de aprender cosas nuevas y actualmente estoy aprendiendo subre la nueva deversión de Google Analytics
-- 💬 Me puedes contactar en yosoy@arkev.com
-- ⚡ Fun facts: Soy cinta negra 2do Dan de Tae Kwon do, también he practicado Kung fu, Kempo Karate, Kung Tao, me gustan mucho los videojuegos y actualmente soy un jugador frecuente de Pokemon Go soy nivel 50 y de Disc Golf Categoría MA3.
+🌱 Siempre estoy aprendiendo algo nuevo; actualmente explorando Node.js para consolidarme como Full-Stack Developer
+🎷 Toco saxofón tenor, lo compré con mi primer trabajo de freelance cuando tenía 19 años
+⚡ Fun facts: soy cinta negra 2° Dan en Tae Kwon Do, también practiqué Kung Fu, Kempo Karate y Kung Tao
+🎮 Amante de los videojuegos, nivel 50 en Pokémon GO y jugador activo de Disc Golf (categoría MA3)
